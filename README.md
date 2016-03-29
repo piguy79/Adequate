@@ -5,6 +5,14 @@ a.k.a Things I think I know about how to do development, but retain the rights t
 ### Modular Systems
 Systems that are comprised of smaller pieces that can be inspected, debugged, upgraded. and reasoned about independently.
 
+### Simplicity
+
+#### Data
+
+1. Software is data manipulation
+1. Homoiconicity - code as data
+
+
 ### Late Binding
 Dependency Injection is an eager binding language's answer.  Just pick a language where this is more natural.
 
