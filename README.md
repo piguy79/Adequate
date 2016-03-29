@@ -2,8 +2,8 @@
 
 a.k.a Things I think I know about how to do development, but retain the rights to change later based on more input.
 
-### Modular Software
-Software that is comprised of smaller pieces that can be inspected, debugged, upgraded. and reasoned about without fear of breaking other pieces.
+### Modular Systems
+Systems that are comprised of smaller pieces that can be inspected, debugged, upgraded. and reasoned about independently.
 
 ### Late Binding
 Dependency Injection is an eager binding language's answer.  Just pick a language where this is more natural.
